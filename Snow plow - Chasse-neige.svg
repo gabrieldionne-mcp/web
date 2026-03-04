@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Layer_1" data-name="Layer 1" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 30 30">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: none;
+        stroke: #4b286d;
+        stroke-linecap: round;
+        stroke-linejoin: round;
+      }
+
+      .cls-2 {
+        fill: #4b286d;
+      }
+    </style>
+  </defs>
+  <rect class="cls-1" x=".55" y="24.99" width="28.91" height="4.42"/>
+  <line class="cls-1" x1="7.37" y1="22.96" x2="16.28" y2="22.96"/>
+  <path class="cls-1" d="M20.31,22.96h2.12s.32-.16.42-.64v-3.61c0-.31,0-.66-.18-.93-.21-.34-.61-.4-.98-.43l-1.07-.1-.9-.08-1.48-5.51h-3.45"/>
+  <polyline class="cls-1" points="14.58 22.96 14.58 8.22 12.67 8.22 10.39 12.84 2.33 12.84"/>
+  <path class="cls-1" d="M2.33,18.15v-7.22H.55v11.29s.09.58.67.74h2.39"/>
+  <line class="cls-1" x1="14.58" y1="18.24" x2=".7" y2="18.24"/>
+  <line class="cls-1" x1="3.93" y1="14.69" x2="13.01" y2="14.69"/>
+  <line class="cls-1" x1="3.93" y1="16.47" x2="13.01" y2="16.47"/>
+  <path class="cls-1" d="M18.7,13.37h-2.79v2.53s.7.89,1.39,1.05h2.42"/>
+  <circle class="cls-1" cx="5.49" cy="22.92" r="1.72"/>
+  <circle class="cls-1" cx="18.35" cy="22.92" r="1.72"/>
+  <path class="cls-1" d="M11.65,10.3c-.42-1.56-2-1.09-2-1.09-1.48-1.58-2.93.18-2.93.18-2.57-1.22-2.95,1.63-2.95,1.63,0,0-.55-.7-1.44-.09"/>
+  <polyline class="cls-1" points=".55 19.68 2.77 19.68 2.77 21.34 .89 21.34"/>
+  <polyline class="cls-1" points="22.85 19.41 20.63 19.41 20.63 21.07 22.51 21.07"/>
+  <line class="cls-1" x1="22.85" y1="20.51" x2="24.07" y2="20.51"/>
+  <line class="cls-1" x1="22.85" y1="22.24" x2="24.07" y2="22.24"/>
+  <polyline class="cls-1" points="24.07 24.64 24.07 19.81 25.55 19.81 25.55 22.62 27 24.64"/>
+  <path class="cls-1" d="M26.02,21.2s1.25-.28,1.52.84c0,0,2.5.21,1.62,2.6"/>
+  <circle class="cls-2" cx="1.79" cy="5.1" r=".5"/>
+  <circle class="cls-2" cx="4.2" cy="1.85" r=".5"/>
+  <circle class="cls-2" cx="6.87" cy="4.6" r=".5"/>
+  <circle class="cls-2" cx="10.9" cy="2.35" r=".5"/>
+  <circle class="cls-2" cx="15.29" cy="3.88" r=".5"/>
+  <circle class="cls-2" cx="18.82" cy="1.85" r=".5"/>
+  <circle class="cls-2" cx="18.33" cy="7.73" r=".5"/>
+  <circle class="cls-2" cx="22.96" cy="4.37" r=".5"/>
+  <circle class="cls-2" cx="22.96" cy="9.29" r=".5"/>
+  <circle class="cls-2" cx="26.24" cy="7.64" r=".5"/>
+  <circle class="cls-2" cx="28.18" cy="11.17" r=".5"/>
+  <circle class="cls-2" cx="28.68" cy="5.1" r=".5"/>
+  <circle class="cls-2" cx="26.52" cy="1.85" r=".5"/>
+</svg>
